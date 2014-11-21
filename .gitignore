@@ -1,0 +1,8 @@
+crawl/datas-all/
+crawl/datas/
+drop_shadows/data/
+i18n/export/
+miui/changelogs_txt/
+miui/changelogs_raw/
+miui/changelog_html/
+*.pyc

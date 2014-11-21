@@ -1,0 +1,13 @@
+parse    http://nullnull-img.me/site00/
+parse    http://nullnull-img.me/site00/gif/
+parse    http://nullnull-img.me/site00/gif/origin/
+parse    http://nullnull-img.me/site00/gif/origin/20140320/
+download http://nullnull-img.me/site00/gif/origin/20140320/013n0va3qgOOe1qaoeoqo1_400.gif
+download http://nullnull-img.me/site00/gif/origin/20140320/014myratxUHbC1s8urxbo1_500.gif
+download http://nullnull-img.me/site00/gif/origin/20140320/pc.html
+download http://nullnull-img.me/site00/gif/origin/20140320/sm1.html
+download http://nullnull-img.me/site00/gif/origin/20140320/sm2.html
+download http://nullnull-img.me/site00/gif/origin/20140320/zip.zip
+parse    http://nullnull-img.me/site00/gif/origin/20140321/
+download http://nullnull-img.me/site00/gif/origin/20140321/001n2qf07MDhr1tvjjruo1_500.gif
+download http://nullnull-img.me/site00/gif/origin/20140321/003mmkj7sHCSL1qktnjdo1_500.gif

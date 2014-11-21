@@ -1,0 +1,10 @@
+ "<a href=\"thread-('postid'\d*)-1-8.html\" style=\"color: #EE1B2E\" onclick=\"atarget(this)\" class=\"xst\">(?'name')\.*MIUI 第\d*周\w*</a>"
+
+
+
+
+ <a href=\"(thread-\d*-1-\d*.html)\" style=\".*\">(.*第\d*周.*)</a>
+
+
+
+ 		rule = re.compile(r""".*<a href="(thread-\d*-1-\d*.html)" style=".*".*>(.*第\d*周.*)</a>.*""", re.S)
